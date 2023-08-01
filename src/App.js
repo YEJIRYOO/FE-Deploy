@@ -18,8 +18,8 @@ function App() {
                 </div>
                 <div className="card back">
                     <div>
-                        <span className="name">숭멋사</span>
-                        <span className="position">FE</span>
+                        <span className="유예지">숭멋사</span>
+                        <span className="BE">FE</span>
                     </div>
                     <a className="github"></a>
                 </div>
